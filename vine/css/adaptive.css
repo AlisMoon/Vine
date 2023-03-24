@@ -1,0 +1,161 @@
+@media only screen and (min-width: 1920px){
+  .inner{
+    background-size: 100%;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  .container {
+    max-width: 800px;
+  }
+  .inner nav a {
+    padding: 15px 70px;
+  }
+
+  .collection .container .coll_about{
+    margin: 30px 0;
+  }
+  .main{
+    width: 400px;
+  }
+
+  .submain{
+    width: 198px;
+  }
+  .collection .container .coll_photo img{
+    margin: 0 0 15px 5px;
+  }
+  .collection .container .coll_photo {
+    padding: 100px 0 0;
+  }
+
+
+
+  .collection .container .coll_about .title{
+    line-height: 42px;
+  }
+  .collection .container .coll_about .title:after{
+    margin: 20px 0;
+  }
+  .collection .container .coll_about .txt{
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .collection .container .coll_about table .name{
+    padding: 20px  16px;
+    font-size: 12px;
+    line-height: 19px;
+  }
+  .collection .container .coll_about table .last{
+    padding: 15px 15px;
+  }
+  .collection .container .coll_about table .name span {
+    line-height: 21px;
+  }
+  footer .container .last .name{
+    padding: 40px 0;
+  }
+  footer .container .last .phone{
+    padding: 40px 0;
+  }
+  footer .container .last .soc{
+    padding: 40px 0;
+  }
+  footer .container .last .soc a{
+    margin: 0 15px 0 20px;
+  }
+  footer .container .last .site {
+    padding: 40px 0;
+  }
+}
+
+@media only screen and (max-width: 1152px){
+  .container{
+    max-width: 700px;
+  }
+  .inner{
+    height: 500px;
+    background-size: 150%;
+  }
+  .inner nav a {
+    padding: 15px 57px;
+  }
+  .inner .btn_inner {
+    margin-top: 275px;
+  }
+  .disc {
+    padding: 50px 0;
+  }
+  .disc .txt {
+    line-height: 30px;
+  }
+  .collection {
+    padding: 70px 0;
+  }
+  .collection .container .coll_about .title {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .collection .container .coll_about .txt{
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .collection .container .coll_about table{
+    margin: 12px 0;
+  }
+  .collection .container .coll_photo {
+    padding: 30px 0 0;
+  }
+  .main{
+    width: 290px;
+    margin: 0 0 15px 5px;
+  }
+  .submain{
+    width: 290px;
+  }
+  .taste .container .img1{
+    width: 150px;
+  }
+  .taste .container .img2{
+    width: 150px;
+  }
+  .taste .container .title{
+    font-size: 22px;
+    line-height: 35px;
+    margin: -31px 160px 0;
+    padding: 10px 22px;
+    width: 260px;
+  }
+  .taste .container .title:after {
+    margin: 28px auto;
+  }
+  .taste .container .txt {
+    margin: 0 auto 40px;
+  }
+  .taste .container .form .adress {
+    margin-bottom: 60px;
+  }
+  .taste .container .form button {
+    margin-bottom: 60px;
+  }
+  footer {
+    padding: 33px 0;
+  }
+  footer .container ul a {
+    font-size: 15px;
+  }
+  footer .container .last .name{
+    width: 200px;
+  }
+  footer .container .last .phone{
+    width: 150px;
+  }
+  footer .container .last .soc{
+    width: 200px;
+  }
+  footer .container .last .site{
+    width: 150px;
+  }
+}
+
+@media only screen and (max-width: 768px){
+}
